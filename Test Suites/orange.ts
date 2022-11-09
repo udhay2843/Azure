@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>orange</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2703cafa-5570-4982-a942-0b258539bba5</testSuiteGuid>
+   <testCaseLink>
+      <guid>2dc5c838-df05-4aea-9531-416ab0d64970</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/orangeDemo/New Test Case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dd80332d-0e5e-4384-8d92-eeabb84d0076</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/orangeExcel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>dd80332d-0e5e-4384-8d92-eeabb84d0076</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>c8e9de38-305d-457d-9d04-cb2d7c1b9012</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dd80332d-0e5e-4384-8d92-eeabb84d0076</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>123741c5-9fb5-417e-8e8e-6041ed9adcee</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
